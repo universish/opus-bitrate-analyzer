@@ -201,7 +201,7 @@ Use with Powershell (path to the opus file in any folder):
 
     python opus_bitrate_analyzer.py "<path_to_file>.opus"
 
-------
+--------
 
 Analysis file names:
 
