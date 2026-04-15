@@ -1,6 +1,13 @@
-# opus-codec-sound-bitrate-diagrammer
+# Opus and Vorbis (codecs) audio files to a bitrate spectrum diagram Converter
 
-Visit the [Codeberg repository (main repository)](https://codeberg.org/universish/opus-codec-sound-bitrate-diagrammer) to view the source code.
+# Bitrate Diagrammer
+
+Converter for Opus and Vorbis (codecs) audio files to a bitrate spectrum diagram.
+
+A python script that analyzes the bitrate-time of audio files created with the libopus and vorbis codecs in .opus , .ogg and .mka formats.  bitrate vs time plot. A python script that analyzes the bitrate-time of audio files created. with the opus and vorbis codec; .opus, .ogg, .oga, .mka container files.
+
+
+Visit the [Codeberg repository (main repository)](https://codeberg.org/universish/Bitrate-Diagrammer) to view the source code.
 
 for opus and vorbis codec;
 for opus, ogg, mka container,
