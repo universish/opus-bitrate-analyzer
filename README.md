@@ -1,4 +1,11 @@
-# opus-ogg-mka-(libopus-vorbis)--bitrate-vs-time-plot-analyzer
+# opus-codec-sound-bitrate-diagrammer
+
+Visit the [Codeberg repository (main repository)](https://codeberg.org/universish/opus-codec-sound-bitrate-diagrammer) to view the source code.
+
+for opus and vorbis codec;
+for opus, ogg, mka container,
+
+sound and music file to bitrate (kb/s) diagram (bitrate vs time plot) converter.
 
 A python script that analyzes the bitrate-time of audio files created with the libopus codec in .opus format.
 
